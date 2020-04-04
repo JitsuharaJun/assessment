@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>防衛オペレーター</title>
+    <link rel="stylesheet" href="def-operator.css">
+</head>
+<body>
+    <h1 class="title">本日の防衛オペレーターと役割は？</h1>
+    <p>プレーヤー名を入力してください</p>
+    <input type="text" name="player" id="player">
+    <button type="submit" id="decideButton">決定</button>
+    <div id="resultOpe"></div>
+    <script src="def-operator.js"></script> 
+</body>
+</html>
